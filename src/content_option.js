@@ -1,13 +1,13 @@
-const logotext = "JOHN";
+const logotext = "EDGAR";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Edgar Ngeleso",
+    description: "I’m Edgar Ngeleso a software developer _ Full stack devloper,currently working in Kenya at UstremIOT Limited",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Edgar Ngeleso",
     animated: {
-        first: "I love coding",
+        first: "I love computer programming.",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
@@ -41,7 +41,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Django",
         value: 85,
     },
     {
@@ -50,10 +50,26 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 70,
     },
     {
-        name: "Jquery",
+        name: "PHP",
+        value: 85,
+    },
+    {
+        name: "Laravel",
+        value: 75,
+    },
+    {
+        name: "C#",
+        value: 70,
+    },
+    {
+        name: "Java",
+        value: 75,
+    },
+    {
+        name: "React native",
         value: 85,
     },
 ];
